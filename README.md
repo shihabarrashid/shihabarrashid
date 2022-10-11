@@ -4,7 +4,7 @@
 I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting-edge backend support. I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.
 
 * ✉️  You can contact me at [shihabarashid@gmail.com](mailto:shihabarashid@gmail.com)
-* 🚀  I'm currently working on [Shob Service](http://shobservice.com/)
+* 🚀  I'm currently working at [Shob Service](http://shobservice.com/) as a Web Developer
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Fun fact: I use tabs over spaces
